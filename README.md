@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**SubhajitRoyom/SubhajitRoyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Subhajit Roy  
 
-Here are some ideas to get you started:
+🚀 Aspiring **Data Analyst** | 📊 SQL | 📈 Power BI | 🐍 Learning Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About Me  
+- 🎓 Master's in **Agriculture & Rural Development** | Bachelor's in **Botany**  
+- 🔍 Passionate about transforming **raw data into meaningful insights**  
+- 🛠️ Skilled in **SQL, Power BI, Excel**, and currently learning **Python**  
+- 📊 Interested in **Business Analytics, Data Visualization, and Supply Chain Analytics**    
+
+---
+
+### 🔧 Skills & Tools  
+- **Data Analysis**: SQL, Excel, Power BI, Pandas (learning)  
+- **Visualization**: Power BI Dashboards, DAX, Data Modeling  
+- **Database**: MySQL, SQL Server  
+- **Other Tools**: GitHub, Jupyter Notebook  
+
+---
+
+### 📂 Featured Projects  
+- **Business Insights 360 (Power BI)** – Finance, Sales, Marketing & Supply Chain dashboards  
+- **SQL Ad-hoc Analysis** – Customer, Product & Market insights with CTEs, Joins & Window Functions  
+- **Shield Insurance Dashboard (Power BI)** – Customer, Revenue & Policy performance analysis  
+
+---
+
+### 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/subhajitroy003/)    
+
+---
+
+⭐️ *"Turning data into actionable insights to drive better decisions."*  
