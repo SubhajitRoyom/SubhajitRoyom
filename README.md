@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Subhajit Roy  
 
-🚀 Aspiring **Data Analyst** | 📊 SQL | 📈 Power BI | 🐍 Learning Python  
+🚀 Aspiring **Data Analyst** | 📊 SQL | 📈 Power BI | 🐍 Python  
 
 ---
 
