@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Subhajit Roy  
 
-🚀 Aspiring **Data Analyst** | 📊 SQL | 📈 Power BI | 🐍 Python  
+🚀 Certified **Data Analyst** | 📊 SQL | 📈 Power BI | 🐍 Python  
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### 🔧 Skills & Tools  
-- **Data Analysis**: SQL, Excel, Power BI, Pandas (learning)  
+- **Data Analysis**: SQL, Excel, Power BI, Python  
 - **Visualization**: Power BI Dashboards, DAX, Data Modeling  
 - **Database**: MySQL, SQL Server  
 - **Other Tools**: GitHub, Jupyter Notebook  
