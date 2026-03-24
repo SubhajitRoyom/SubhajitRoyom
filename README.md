@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Subhajit Roy  
 
-🚀 Certified **Data Analyst** | Excel | 📊 SQL | 📈 Power BI | 🐍 Python  
+🚀 Certified **Data Analyst** | Excel | 📊 SQL | 📈 Power BI | 🐍 Python  | AI Automation
 
 ---
 
